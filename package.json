@@ -1,0 +1,18 @@
+{
+  "name": "unit_10_library_manager",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "pug": "^2.0.0-rc.4",
+    "sequelize": "3.30.4",
+    "sequelize-cli": "^3.1.0",
+    "sqlite3": "^3.1.13"
+  }
+}
